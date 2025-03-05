@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://alanmeneses001.github.io/projetos-portifolio/Portifolio-personalizado/index.html">🌎Site Portifólio</a> |
-  <a href="https://www.linkedin.com/in/alanderlon-mesquita-15bba8235/">💼 LinkedIn</a> |
-  <a href="https://www.instagram.com/alan_mns01/">🐦 Instagram</a>
+  <a href="https://www.linkedin.com/in/alanderlon-mesquita-15bba8235/" target="_blank">💼 LinkedIn</a> |
+  <a href="https://www.instagram.com/alan_mns01/" target="_blank">📸 Instagram</a>
 </p>
 
 ## 🚀 Sobre mim
@@ -33,9 +33,3 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark" width="400"/>
-</p>
