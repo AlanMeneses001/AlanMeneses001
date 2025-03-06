@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 🚀 Sobre mim
-💻 Desenvolvedor Front-end apaixonado por tecnologiae e inovação.  
+💻 Desenvolvedor Front-end apaixonado por tecnologia e inovação.  
 
 🎯 Buscando sempre melhorar minhas habilidades e contribuir para projetos Open Source.
 
